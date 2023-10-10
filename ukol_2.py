@@ -29,3 +29,4 @@ if pokracovani == "Ano":
     prodej_soucastky()
 else:
     print("Naviděnou příště!")
+    
